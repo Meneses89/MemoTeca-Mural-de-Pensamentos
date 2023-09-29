@@ -1,0 +1,81 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Same bed, but it feels just a little bit bigger now Our song on the radio, but it don't sound the same When our friends talk about you, all it does is just tear me down",
+      "autoria": "Bruno Mars",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 2
+    },
+    {
+      "conteudo": "No meio do caminho tinha uma pedra tinha uma pedra no meio do caminho tinha uma pedra no meio do caminho tinha uma pedra.  Nunca me esquecerei desse acontecimento na vida de minhas retinas tão fatigadas. Nunca me esquecerei que no meio do caminho tinha uma pedra tinha uma pedra no meio do caminho no meio do caminho tinha uma pedra.",
+      "autoria": "Carlos Drummond de Andrade",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 3
+    },
+    {
+      "conteudo": "256º dia do ano: O Dia do Programador tem significado exato e explicamos por quê:  Se contarmos os dias no calendário, o 256º dia do ano cai no dia 13 de setembro (ou 12 de setembro em anos bissextos); 256 é o número de valores distintos que podem ser representados com um byte de oito bits, por isso, é um número muito conhecido entre os programadores;  Em hexadecimal, 256 é igual à ‘100’ → ‘0 x 100’;  256 é o resultado da oitava potência do número dois, a maior potência de dois abaixo de 365, o número total de dias em um ano não bissexto. ",
+      "autoria": "Dia do Programador",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 4
+    },
+    {
+      "conteudo": "Devíamos ser ensinados a não esperar por inspiração para começar algo. Ação sempre gera inspiração. Inspiração raramente gera ação.",
+      "autoria": "Frank Tibolt",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "A inspiração existe, porém temos que encontrá-la trabalhando.",
+      "autoria": "Pablo Picasso",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "vamos acabar com esse erro agora esta funcionando",
+      "autoria": "jose do egito",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "testando paginação",
+      "autoria": "filipe Meneses",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "filipe nao esta dando certo seu codigo",
+      "autoria": "pc flp",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "olijhjgedjgf fjsgfkdsjfgjdksfg ",
+      "autoria": "maria aparecida",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "testando requisiçao ",
+      "autoria": "esta retornando",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 11
+    },
+    {
+      "conteudo": "pensando oque pode estar acontecendo",
+      "autoria": "artur gomes",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 12
+    }
+  ]
+}
