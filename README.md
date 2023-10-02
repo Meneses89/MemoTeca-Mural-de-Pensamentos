@@ -2,7 +2,7 @@
 
 # MemoTeca - Seu Mural de Pensamentos
 
-![MemoTeca](https://link_para_sua_imagem.com)
+![homeGit](https://github.com/Meneses89/MemoTeca-Mural-de-Pensamentos/assets/77581813/63ce91db-fb47-4162-a15b-fd63e73d1d56)
 
 **Descrição:**
 
